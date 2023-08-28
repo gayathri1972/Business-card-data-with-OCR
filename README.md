@@ -70,7 +70,3 @@
 #### Step 3. Modification zone
 * In this **'Modification zone'** you can able to modify the information also you can delete the previous data
 
-## Video link
-
-* Click the below Image
-[![image](https://github.com/Gopinathalpha7/BizCardX-Extracting_Business_Card_Data_with_OCR/blob/2f39cdfe3032ad0e3bd9d04e088e9de9b11791ef/Image.png)](https://www.linkedin.com/posts/gopinath-56a02b169_datascience-datascientists-easyocr-activity-7083505480752381952-IXRi?utm_source=share&utm_medium=member_desktop)
