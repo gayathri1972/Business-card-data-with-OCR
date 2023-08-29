@@ -64,10 +64,11 @@
 #### Step 1. Data collection zone
 * Click the **'Browse Files'** button and select an image
 
-Linkedin post link:https://www.linkedin.com/posts/activity-7102164583900999680-75iy?utm_source=share&utm_medium=member_desktop
 #### Step 2. Data upload
 * Click the **'Upload to MySQL DB'** button to upload the data to the Mysql database
 
 #### Step 3. Modification zone
 * In this **'Modification zone'** you can able to modify the information also you can delete the previous data
+
+Linkedin post link:https://www.linkedin.com/posts/activity-7102164583900999680-75iy?utm_source=share&utm_medium=member_desktop
 
